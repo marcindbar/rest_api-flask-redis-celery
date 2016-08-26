@@ -1,0 +1,3 @@
+rest_api.db
+__pycache__
+celerybeat-schedule
